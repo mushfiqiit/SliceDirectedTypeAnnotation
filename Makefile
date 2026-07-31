@@ -2,7 +2,7 @@
 # Make will silently continue if that file does not exist.
 -include Makefile.user
 
-NAME	:= paper
+NAME	:= SliceDirectedTypeAnnotation
 
 default: all
 
